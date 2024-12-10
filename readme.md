@@ -1,2 +1,1 @@
-"# My lukemt" 
-"My first GitHub" 
+"period." 
